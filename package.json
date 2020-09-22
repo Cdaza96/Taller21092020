@@ -1,0 +1,19 @@
+{
+  "name": "taller-21092020",
+  "version": "1.0.0",
+  "description": "taller 21092020",
+  "main": "index.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cdaza96/Taller21092020.git"
+  },
+  "author": "andres_D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cdaza96/Taller21092020/issues"
+  },
+  "homepage": "https://github.com/Cdaza96/Taller21092020#readme"
+}
